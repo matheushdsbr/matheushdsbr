@@ -1,6 +1,6 @@
 # Matheus Henrique
 
-Front-end - CWI Software
+Front-end - Gympass
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushds/)](https://www.linkedin.com/in/matheushds/)
 [![Gmail Badge](https://img.shields.io/badge/-matheushds.br@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushds.br@gmail.com)](mailto:matheushds.br@gmail.com)
